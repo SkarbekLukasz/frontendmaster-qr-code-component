@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -21,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SkarbekLukasz/frontendmaster-qr-code-component)
-- Live Site URL: [Add live site URL here](https://skarbeklukasz.github.io/frontendmaster-qr-code-component/)
+- Solution URL: [Github](https://github.com/SkarbekLukasz/frontendmaster-qr-code-component)
+- Live Site URL: [Github Pages](https://skarbeklukasz.github.io/frontendmaster-qr-code-component/)
 
 ## My process
 
@@ -33,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://github.com/SkarbekLukasz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SkarbekLukasz)
+- Website - [Github](https://github.com/SkarbekLukasz)
+- Frontend Mentor - [@SkarbekLukasz](https://www.frontendmentor.io/profile/SkarbekLukasz)
